@@ -26,7 +26,7 @@ apis:
   tags: Agencies
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/agencies/master/_listings/us-digital-registry/agencies-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/agencies/master/_listings/us-digital-registry/agencies-id-json-get.md
 x-common:
 - type: x-website
   url: https://usdigitalregistry.digitalgov.gov

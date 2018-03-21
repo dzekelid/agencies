@@ -17,7 +17,7 @@ paths:
     get:
       summary: Agencies
       description: This lists all active agencies in the system
-      operationId: Api::V1::Agencies#index
+      operationId: apiV1AgenciesGEt
       parameters:
       - in: query
         name: no_accounts

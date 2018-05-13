@@ -12,9 +12,9 @@ x-alexaRank: ""
 tags:
 - Stack Network
 - Federal Government   GSA
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/agencies/master/_listings/us-digital-registry/apis.yaml
+created: "2018-05-12"
+modified: "2018-05-12"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: U.S. Digital Registry Agency API
@@ -26,7 +26,9 @@ apis:
   tags: Agencies
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/agencies/master/_listings/us-digital-registry/agencies-id-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-json-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-json-get-postman.md
 x-common:
 - type: x-website
   url: https://usdigitalregistry.digitalgov.gov

@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: U.S. Digital Registry Agency API
-  description: Provides access to a list of federal agencies.
+  title: U.S. Digital Registry Agency API Agency
+  description: This returns an agency based on an ID.
   version: "1.0"
 host: usdigitalregistry.digitalgov.gov
 basePath: /api/v1

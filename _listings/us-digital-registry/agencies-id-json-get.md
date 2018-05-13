@@ -17,7 +17,7 @@ paths:
     get:
       summary: Agency
       description: This returns an agency based on an ID
-      operationId: apiV1AgenciesGet
+      operationId: Api::V1::Agencies#show
       parameters:
       - in: path
         name: id

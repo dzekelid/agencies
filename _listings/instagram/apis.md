@@ -41,7 +41,68 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/instagram/#123;instagram-user-id-#125;-agencies-get.md
+- name: Instagram Instagram User Agencies
+  description: Instagram User Agencies
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
+  humanURL: http://instagram.com
+  baseURL: https://graph.facebook.com//v3.0
+  tags: Agencies
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/instagram/#123;instagram-user-id-#125;-agencies-get.md
 x-common:
+- type: x-application-management
+  url: https://instagram.com/accounts/manage_access/
+- type: x-authentication
+  url: http://instagram.com/developer/authentication/
+- type: x-base
+  url: https://api.instagram.com
+- type: x-blog
+  url: http://developers.instagram.com/
+- type: x-blog
+  url: http://blog.instagram.com/
+- type: x-blog-rss
+  url: http://developers.instagram.com/rss
+- type: x-blog-rss
+  url: http://blog.instagram.com/rss
+- type: x-change-log
+  url: https://www.instagram.com/developer/changelog/
+- type: x-developer
+  url: http://instagram.com/developer/
+- type: x-developer-showcase
+  url: http://instagram.com/developer/business/
+- type: x-embeddable
+  url: http://instagram.com/developer/embedding/
+- type: x-github
+  url: https://github.com/Instagram
+- type: x-mobile
+  url: https://www.instagram.com/developer/mobile-sharing/
+- type: x-privacy
+  url: https://instagram.com/about/legal/privacy/
+- type: x-python-library
+  url: https://github.com/Instagram/python-instagram
+- type: x-rate-limits
+  url: http://instagram.com/developer/limits/
+- type: x-realtime
+  url: http://instagram.com/developer/realtime/
+- type: x-ruby-library
+  url: https://github.com/Instagram/instagram-ruby-gem
+- type: x-sandbox-environment
+  url: https://www.instagram.com/developer/sandbox/
+- type: x-sandbox-invites
+  url: https://www.instagram.com/developer/clients/sandbox_invites/
+- type: x-stack-overflow
+  url: http://stackoverflow.com/questions/tagged/instagram/
+- type: x-subscriptions
+  url: https://www.instagram.com/developer/subscriptions/
+- type: x-support
+  url: https://www.instagram.com/developer/support/
+- type: x-terms-of-service
+  url: https://instagram.com/about/legal/terms/
+- type: x-twitter
+  url: https://twitter.com/instagram
+- type: x-website
+  url: http://instagram.com
 - type: x-application-management
   url: https://instagram.com/accounts/manage_access/
 - type: x-authentication

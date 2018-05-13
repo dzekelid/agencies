@@ -29,18 +29,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-id-json-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-id-json-get-postman.md
-- name: U.S. Digital Registry Agency API Agencies
-  description: This lists all active agencies in the system. These agencies can be
-    used to query for social media accounts, mobile products, and galleries.
+- name: U.S. Digital Registry Agency API Agency
+  description: This returns an agency based on an ID.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/digital-gov-logo.jpeg
   humanURL: https://usdigitalregistry.digitalgov.gov
   baseURL: https://usdigitalregistry.digitalgov.gov//api/v1
   tags: Agencies
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-id-json-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-json-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/us-digital-registry/agencies-id-json-get-postman.md
 x-common:
 - type: x-website
   url: https://usdigitalregistry.digitalgov.gov

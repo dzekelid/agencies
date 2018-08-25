@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/18f/apis.md
 specificationVersion: "0.14"
-apis:
-- name: 18F
-  x-api-slug: 18f
-  description: Front Page for the GSA.gov website
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11148-18f.jpg
-  humanURL: https://18f.gsa.gov/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/18f/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://18fblog.tumblr.com/

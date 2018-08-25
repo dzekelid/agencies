@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/digital-intent/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Digital Intent
-  x-api-slug: digital-intent
-  description: Chicago based product development - Strategy, User Experience, Web
-    and Mobile Development and Marketing Consulting.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8761-digital-intent.jpg
-  humanURL: http://www.digintent.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/digital-intent/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/digital-intent

@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/battelle/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Battelle
-  x-api-slug: battelle
-  description: Every day, the people of Battelle apply science and technology to solving
-    what matters most. At major technology centers and national laboratories around
-    the world, Battelle conducts research and development, designs and manufactures
-    products, and delivers critical services for government and commercial customers.
-    Headquartered in Columbus, Ohio since its founding in 1929, Battelle serves the
-    national security, health and life sciences, and energy and environmental industries.
-  image: ""
-  humanURL: http://www.battelle.org/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/battelle/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://inside.battelle.org/

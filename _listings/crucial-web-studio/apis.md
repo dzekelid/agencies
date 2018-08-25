@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/crucial-web-studio/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Crucial Web Studio
-  x-api-slug: crucial-web-studio
-  description: ""
-  image: ""
-  humanURL: http://www.crucialwebstudio.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/crucial-web-studio/openapi.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/CrucialApps

@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/accenture-labs/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Accenture Labs
-  x-api-slug: accenture-labs
-  description: Accenture is a leading global professional services company providing
-    a range of strategy, consulting, digital, technology & operations services and
-    solutions.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2624-accenture-labs.jpg
-  humanURL: http://www.accenture.com/us-en/technology/technology-labs/Pages/index.aspx
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/accenture-labs/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/accenture-technology-klabs

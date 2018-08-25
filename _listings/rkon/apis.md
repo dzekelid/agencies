@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/rkon/apis.md
 specificationVersion: "0.14"
-apis:
-- name: RKON
-  x-api-slug: rkon
-  description: RKON is a leading IT consulting firm offering Infrastructure-as-a-Service
-    and managed cyber security services to the middle market. We have a specialized
-    practice delivering life cycle execution and management for private equity carve
-    outs, performance...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8816-rkon.jpg
-  humanURL: http://www.rkon.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/rkon/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/rkon-technologies/timeline

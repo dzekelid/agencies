@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/catch-software/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Catch Software
-  x-api-slug: catch-software
-  description: Enterprise Tester | JIRA | Confluence | Enterprise Architect for innovation,
-    quality and test.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18602-catch-software.jpg
-  humanURL: http://catchsoftware.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/catch-software/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://catchsoftware.com/blogs/

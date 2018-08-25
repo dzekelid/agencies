@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/lets-nurture/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Lets Nurture
-  x-api-slug: lets-nurture
-  description: Lets Nurture is a top-notch IT company specialized in custom mobile
-    app development offering robust IoT solutions, Blockchain apps, Chatbots, Web
-    apps and Cryptocurrency development, Digital marketing & IT staffing services
-    in India, Canada, USA, UK, ...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28219-lets-nurture.jpg
-  humanURL: https://www.letsnurture.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/lets-nurture/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/letsnurture

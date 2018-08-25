@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/vokal-interactive/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Vokal Interactive
-  x-api-slug: vokal-interactive
-  description: Vokal is a leading-edge digital agency in Chicago, specializing in
-    mobile apps. We design, develop and deploy digital experiences that get results.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3751-vokal-interactive.jpg
-  humanURL: http://vokalinteractive.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/vokal-interactive/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/vokal-interactive

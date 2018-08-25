@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/thoughtworks/apis.md
 specificationVersion: "0.14"
-apis:
-- name: ThoughtWorks
-  x-api-slug: thoughtworks
-  description: ""
-  image: http://pbs.twimg.com/profile_images/459401977462407168/reORxIro_normal.png
-  humanURL: http://www.thoughtworks.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/thoughtworks/openapi.md
+apis: []
 x-common:
 - type: x-email
   url: info-us@thoughtworks.co

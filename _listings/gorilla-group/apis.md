@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/gorilla-group/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Gorilla Group
-  x-api-slug: gorilla-group
-  description: Gorilla Group is the commerce experience agency. We propel digital
-    commerce growth by offering strategy, creative, technology, customer experience,
-    managed services, and hosting services to drive client results.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3629-gorilla-group.jpg
-  humanURL: http://www.gorillagroup.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/gorilla-group/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/gorilla-group

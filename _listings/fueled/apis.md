@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/fueled/apis.md
 specificationVersion: "0.14"
-apis:
-- name: FUELED
-  x-api-slug: fueled
-  description: Award-winning iPhone and Android apps for startups and enterprise clients.
-    Strategic app planning, design, and development, QA, user testing, branding, etc.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8791-fueled.jpg
-  humanURL: http://www.fueled.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/fueled/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/fueled

@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/icf/apis.md
 specificationVersion: "0.14"
-apis:
-- name: ICF
-  x-api-slug: icf
-  description: We make big things possible for our clients. We provide data, insights,
-    and deep implementation expertise they need to deliver results that matter.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28501-icf.jpg
-  humanURL: https://www.icf.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/icf/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/icf-international

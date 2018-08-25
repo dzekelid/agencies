@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/dataseed/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Dataseed
-  x-api-slug: dataseed
-  description: Dataseed is the simplest way to create beautiful interactive visualizations.
-    Use our free online service or integrate Dataseed with your web app.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1832-dataseed.jpg
-  humanURL: http://getdataseed.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/dataseed/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://dataseedapp.com/api/

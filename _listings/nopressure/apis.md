@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/nopressure/apis.md
 specificationVersion: "0.14"
-apis:
-- name: NoPressuRe
-  x-api-slug: nopressure
-  description: We are passionate scientists. We walk the unbeaten path. We research
-    on technology and free software. We are committed to keep the web open. We also
-    love hanging out at the beach and enjoying the outdoors.
-  image: ""
-  humanURL: http://www.nopressure.co.uk/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/nopressure/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.nopressure.co.uk/

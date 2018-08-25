@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/fiorano-software/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Fiorano Software
-  x-api-slug: fiorano-software
-  description: Fiorano Software Technologies | Support with Invoative Products
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18861-fiorano-software.jpg
-  humanURL: http://www.fiorano.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/fiorano-software/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.fiorano.com/blog/

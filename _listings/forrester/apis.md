@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/forrester/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Forrester
-  x-api-slug: forrester
-  description: ""
-  image: ""
-  humanURL: https://www.forrester.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/forrester/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blogs.forrester.com/

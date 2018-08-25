@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/cosmos-enterprises/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Cosmos Enterprises
-  x-api-slug: cosmos-enterprises
-  description: Cosmos Enterprises is a full service Online Branding, Internet, Inbound
-    & Social Media Marketing, Website Design and Search Engine Optimization (SEO)
-    Company.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3700-cosmos-enterprises.jpg
-  humanURL: http://cosmosenterprises.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/cosmos-enterprises/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://cosmosenterprises.com/blog/

@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/moblico/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Moblico
-  x-api-slug: moblico
-  description: There are now more internet connected devices in the US than there
-    are Americans. With over 2 million applications available for download to those
-    devices, it is increasingly challenging to get your application noticed. But its
-    not just about getting ...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1583-moblico.jpg
-  humanURL: http://moblico.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/moblico/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/moblico

@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/civic-agency/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Civic Agency
-  x-api-slug: civic-agency
-  description: Empowering an active and engaged society for all. Civic technology
-    work and other initiatives by @philipashlock
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2642-civic-agency.jpg
-  humanURL: http://www.civicagency.org/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/civic-agency/openapi.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/civicagency

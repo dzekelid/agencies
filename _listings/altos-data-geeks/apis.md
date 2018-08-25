@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/altos-data-geeks/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Altos Data Geeks
-  x-api-slug: altos-data-geeks
-  description: We track 100 million properties across the U.S. so you (and your clients)
-    can stay ahead of the curve.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10159-altos-data-geeks.jpg
-  humanURL: http://www.altosresearch.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/altos-data-geeks/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.altosresearch.com/

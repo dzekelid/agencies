@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/mobovivo/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Mobovivo
-  x-api-slug: mobovivo
-  description: Mobovivo is a team of TV producers and talented software engineers
-    that turn the TV industries biggest threat - mobile devices pulling audiences
-    away from TV - into their greatest asset - advertising revenue. Mobovivo Second
-    Screen and Social TV platform supports over 100 million interactions / minute
-    for companies like ESPN, TWC and Intel enabling TV viewers to engage with shows
-    across multiple screens.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobovivo_Logo.png
-  humanURL: http://www.mobovivo.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/mobovivo/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.mobovivo.com/

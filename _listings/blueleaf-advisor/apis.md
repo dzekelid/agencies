@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/blueleaf-advisor/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Blueleaf Advisor
-  x-api-slug: blueleaf-advisor
-  description: Blueleaf increases the revenue of financial advisors by helping them
-    win more clients, growing existing clients and driving referrals.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1313-blueleaf-advisor.jpg
-  humanURL: http://www.blueleaf.com/developer/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/blueleaf-advisor/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.blueleaf.com/category/savings-investments/

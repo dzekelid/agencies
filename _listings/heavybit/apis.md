@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/heavybit/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Heavybit
-  x-api-slug: heavybit
-  description: Learn the right way to take your developer product to market.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2958-heavybit.jpg
-  humanURL: http://www.heavybit.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/heavybit/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.heavybit.com/

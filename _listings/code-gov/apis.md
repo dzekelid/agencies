@@ -13,9 +13,9 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/code-gov/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Code.gov
-  x-api-slug: code-gov
-  description: code-gov-api-documentation--while-using-this-documentation-locally-please-choose-to-
+- name: Code.gov API - Get a list of agencies
+  x-api-slug: agencies-get
+  description: Get a list of agencies.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-gov-logo.jpg
   humanURL: https://code.gov/
   baseURL: https://api.code.gov//
@@ -26,18 +26,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/code-gov/agencies-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/code-gov/agencies-get-openapi.md
-- name: Code.gov
-  x-api-slug: code-gov
-  description: Code.gov leverages the power of code sharing and collaboration to help
-    the US Government cut down on duplicative software development and save millions
-    of taxpayer dollars for the American people.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-gov-logo.jpg
-  humanURL: https://code.gov/
-  baseURL: https://api.code.gov//
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/code-gov/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://clover.api.gallery.streamdata.io

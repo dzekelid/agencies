@@ -14,22 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/carnival-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Carnival Mobile Platform API
-  x-api-slug: carnival-mobile-platform-api
-  description: We founded the worlds first iPhone app company in 2007, leading strategy
-    and app development more than 120 apps for Fortune 500 brands. With 15x No.1 apps
-    under our belt, we knew we had found the secret to keeping mobile communities
-    engaged. In January 2014, we launched Carnival Mobile Marketing Suite to give
-    brands and their agencies innovative technology to keep up with always on mobile
-    audiences.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/carnival-logo-small.png
-  humanURL: http://carnivalmobile.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/carnival-io/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.carnivalmobile.com/

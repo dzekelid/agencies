@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/developer-media/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Developer Media
-  x-api-slug: developer-media
-  description: Reach Millions of Developers. Developer Media connects your company
-    with todays most influential developers in everything from cloud to IoT.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2317-developer-media.jpg
-  humanURL: http://developermedia.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/developer-media/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://developermedia.com/category/blog/

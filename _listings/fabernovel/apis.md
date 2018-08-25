@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/fabernovel/apis.md
 specificationVersion: "0.14"
-apis:
-- name: FABERNOVEL
-  x-api-slug: fabernovel
-  description: FABERNOVEL est un groupe full-stack de conseil et de solutions en innovation
-    qui a accompagn depuis sa cration plus des 3/4 des entreprises du CAC 40 dans
-    leur transformation numrique.     Il est constitu de sa branche Formation (FABERNOVEL
-    INST...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2653-fabernovel.jpg
-  humanURL: http://innovate.fabernovel.com
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/fabernovel/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.fabernovel.com/journal/

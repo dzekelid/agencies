@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/allscripts/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Allscripts API
-  x-api-slug: allscripts-api
-  description: Take a closer look at Allscripts. Experience how our EHR, financial
-    management, population health management and precision medicine solutions can
-    give you connected information and insights like never before.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8731-allscripts.jpg
-  humanURL: http://www.allscripts.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/allscripts/openapi.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/Allscripts

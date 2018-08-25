@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/raw-engineering/apis.md
 specificationVersion: "0.14"
-apis:
-- name: raw engineering
-  x-api-slug: raw-engineering
-  description: Connect 200+ cloud apps, automate business applications and workflows
-    by creating integrations, and boost productivity using Built.ios award-winning
-    iPaaS digital platform, Built.io Flow Enterprise. Built.io also offers a headless
-    CMS platform, Conten...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11171-raw-engineering.jpg
-  humanURL: http://www.raweng.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/raw-engineering/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.raweng.com/blog/

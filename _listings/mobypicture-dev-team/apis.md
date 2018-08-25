@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/mobypicture-dev-team/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Mobypicture Dev Team
-  x-api-slug: mobypicture-dev-team
-  description: Share your adventures in Photo, Video and Audio on all your social
-    networks. We support Twitter, Facebook, FB Pages (new!), Flickr, Youtube, Google+
-    and 20 more
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2200-mobypicture-dev-team.jpg
-  humanURL: http://www.mobypicture.com/
-  baseURL: https:///
-  tags: Agencies
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/mobypicture-dev-team/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://mathys.vanabbe.com/

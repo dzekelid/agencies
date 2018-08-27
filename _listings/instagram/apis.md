@@ -12,11 +12,24 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Agencies
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/instagram/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Instagram Graph API - Instagram User Agencies
+  x-api-slug: 123instagramuserid125agencies-get
+  description: Instagram User Agencies
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
+  humanURL: http://instagram.com
+  baseURL: https://graph.facebook.com//v3.0
+  tags: Images, Social, My API Stack, Indie EdTech Data Jam, Imports, Change Log Example,
+    Stack Network, Stack, Media, Photos, API Provider, Photos, Photos, Profiles, General
+    Data, Service API, Relative Data, Pedestal, Historical Data API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agencies/master/_listings/instagram/123instagramuserid125agencies-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://infermedica.api.gallery.streamdata.io

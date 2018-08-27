@@ -952,6 +952,36 @@ paths:
       - Negotiatorsthe
       - Agencys
       - Branch
+  /api/webhook/create/{triggerName}:
+    post:
+      summary: Creates a new webhook in the system (scoped to agency)
+      description: Creates a new webhook in the system (scoped to agency).
+      operationId: Webhook_CreateWebhookBytriggerNameBycreateWebhookRequest
+      x-api-path-slug: apiwebhookcreatetriggername-post
+      parameters:
+      - in: body
+        name: createWebhookRequest
+        description: Webhook callback details
+        schema:
+          $ref: '#/definitions/holder'
+      - in: header
+        name: Rezi-Api-Version
+        description: Specifies which version of the API to call
+      - in: path
+        name: triggerName
+        description: Name of the trigger
+      responses:
+        200:
+          description: OK
+      tags:
+      - Creates
+      - New
+      - Webhook
+      - In
+      - System
+      - (scoped
+      - To
+      - Agency)
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0
